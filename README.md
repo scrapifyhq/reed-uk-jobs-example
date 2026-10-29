@@ -2,7 +2,7 @@
 
 Runnable example code for the tutorial: https://dev.to/scrapifyhq/scrape-uk-jobs-from-reedcouk-with-salary-filters-python-and-javascript-1c8a
 
-**Disclosure:** the Apify Actor(s) used here were built by the author of this repo. They are pay-per-event; the article lists the prices and what rival Actors charge.
+**Disclosure: I built this.** The Apify Actor(s) used here are mine. They are pay-per-event; the article lists the prices and what rival Actors charge.
 
 Actor page(s): https://apify.com/scrapefy/reed-jobs-scraper-uk
 
