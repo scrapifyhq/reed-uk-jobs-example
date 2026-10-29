@@ -1,0 +1,345 @@
+[
+ {
+  "id": 57486863,
+  "url": "https://www.reed.co.uk/jobs/senior-python-software-engineer-security-cleared/57486863",
+  "title": "Senior Python Software Engineer - Security Cleared",
+  "company": "Searchability NS&D",
+  "companyUrl": "https://www.reed.co.uk/jobs/searchability-ns-d/p106970",
+  "location": "London",
+  "county": "London",
+  "salaryFrom": 65000,
+  "salaryTo": 100000,
+  "salaryPeriod": "per annum",
+  "salaryFromPerYearEst": 65000,
+  "salaryToPerYearEst": 100000,
+  "currency": "GBP",
+  "contractType": "Permanent",
+  "fullTime": true,
+  "partTime": false,
+  "workingOption": null,
+  "snippet": "SENIOR PYTHON SOFTWARE ENGINEER - SC / DV CLEARED NEW PERMANENT OPPORTUNITY AVAILABLE Salary: Up to 100,000 base Location: London Working Pattern:...",
+  "postedAt": "2026-10-23T09:02:40.467",
+  "updatedAt": "2026-10-23T09:02:42.173",
+  "expiresAt": "2026-10-30T23:55:00",
+  "category": "Engineer",
+  "easyApply": true,
+  "externalApplyUrl": null,
+  "isPromoted": false,
+  "detailScraped": true,
+  "searchUrl": "https://www.reed.co.uk/jobs/python-developer-jobs-in-london?datecreatedoffset=LastWeek&salaryfrom=50000",
+  "description": "SENIOR PYTHON SOFTWARE ENGINEER - SC / DV CLEARED\nNEW PERMANENT OPPORTUNITY AVAILABLE\nSalary: Up to £100,000 base\nLocation: London \nWorking Pattern: Hybrid - 2-4 days per week on-site\nClearance: Active SC or DV\nType: Permanent\nI'm currently working with an organisation delivering innovative AI and software solutions within the UK Defence sector, who are looking for a strong Python Backend Engineer with knowledge of machine learning to join their growing team.\nTHE ROLE\nThis is a hands-on engineering role focused on building scalable backend applications, services and infrastructure that support AI and machine learning solutions. You'll work alongside data scientists and other engineers to turn ML capabilities into reliable, production-ready software, with a focus on software engineering rather than developing models from scratch.\nResponsibilities include:\nDesigning, developing and maintaining scalable backend applications and services using Python.Building APIs, integrations and software infrastructure to support AI and machine learning solutions.Working alongside data scientists to integrate and operationalise ML models within production systems.Developing reusable software components and tools to improve the delivery of AI-enabled applications.Working with cloud platforms such as AWS, Azure or GCP.Using Docker and Kubernetes to build, deploy and manage applications at scale.Contributing to software architecture, technical design and engineering best practices.Making technical decisions to ensure solutions are scalable, secure and maintainable.Collaborating with engineers, data scientists and client stakeholders to deliver complex technical projects.WHAT THEY'RE LOOKING FOR\nStrong commercial experience developing backend applications and services using Python.Solid software engineering fundamentals, including clean code, testing and maintainable system design.Experience building APIs, integrations and scalable software systems.Knowledge of machine learning concepts and an understanding of how ML models are deployed and used in production.Experience working with ML-enabled applications or integrating models built using frameworks such as Scikit-learn, TensorFlow or PyTorch.Experience with cloud platforms such as AWS, Azure or GCP.Familiarity with Docker, Kubernetes and modern software deployment practices.An understanding of infrastructure, application security and production environments.Strong problem-solving skills and the ability to collaborate with multidisciplinary teams.Active SC or DV security clearance.INTERESTED?\nIf you're an SC or DV-cleared Python Backend Engineer with strong software engineering skills and knowledge of machine learning, get in touch to discuss the opportunity.\nTo apply, please send over your latest CV.",
+  "descriptionHtml": "<p><strong>SENIOR PYTHON SOFTWARE ENGINEER - SC / DV CLEARED</strong></p><p><strong>NEW PERMANENT OPPORTUNITY AVAILABLE</strong></p><p><strong>Salary:</strong> Up to £100,000 base<br><strong>Location:</strong> London <br><strong>Working Pattern:</strong> Hybrid - 2-4 days per week on-site<br><strong>Clearance:</strong> Active SC or DV<br><strong>Type:</strong> Permanent</p><p>I'm currently working with an organisation delivering innovative AI and software solutions within the UK Defence sector, who are looking for a strong <strong>Python Backend Engineer with knowledge of machine learning</strong> to join their growing team.</p><p><strong>THE ROLE</strong></p><p>This is a hands-on engineering role focused on building scalable backend applications, services and infrastructure that support AI and machine learning solutions. You'll work alongside data scientists and other engineers to turn ML capabilities into reliable, production-ready software, with a focus on software engineering rather than developing models from scratch.</p><p>Responsibilities include:</p><ul><li>Designing, developing and maintaining scalable backend applications and services using Python.</li><li>Building APIs, integrations and software infrastructure to support AI and machine learning solutions.</li><li>Working alongside data scientists to integrate and operationalise ML models within production systems.</li><li>Developing reusable software components and tools to improve the delivery of AI-enabled applications.</li><li>Working with cloud platforms such as AWS, Azure or GCP.</li><li>Using Docker and Kubernetes to build, deploy and manage applications at scale.</li><li>Contributing to software architecture, technical design and engineering best practices.</li><li>Making technical decisions to ensure solutions are scalable, secure and maintainable.</li><li>Collaborating with engineers, data scientists and client stakeholders to deliver complex technical projects.</li></ul><p><strong>WHAT THEY'RE LOOKING FOR</strong></p><ul><li>Strong commercial experience developing backend applications and services using Python.</li><li>Solid software engineering fundamentals, including clean code, testing and maintainable system design.</li><li>Experience building APIs, integrations and scalable software systems.</li><li>Knowledge of machine learning concepts and an understanding of how ML models are deployed and used in production.</li><li>Experience working with ML-enabled applications or integrating models built using frameworks such as Scikit-learn, TensorFlow or PyTorch.</li><li>Experience with cloud platforms such as AWS, Azure or GCP.</li><li>Familiarity with Docker, Kubernetes and modern software deployment practices.</li><li>An understanding of infrastructure, application security and production environments.</li><li>Strong problem-solving skills and the ability to collaborate with multidisciplinary teams.</li><li>Active SC or DV security clearance.</li></ul><p><strong>INTERESTED?</strong></p><p>If you're an SC or DV-cleared Python Backend Engineer with strong software engineering skills and knowledge of machine learning, get in touch to discuss the opportunity.</p><p>To apply, please send over your latest CV.</p>",
+  "sector": "Software Engineer",
+  "parentSector": "IT & Telecoms",
+  "region": "South East England",
+  "country": "United Kingdom",
+  "postcode": null,
+  "isRemote": false,
+  "salaryDisplay": "£ 65,000 - £ 100,000 per annum",
+  "salaryNegotiable": false,
+  "employerType": "Agency",
+  "skills": [
+   {
+    "id": 6604,
+    "name": "National Security"
+   },
+   {
+    "id": 59571,
+    "name": "AWS"
+   },
+   {
+    "id": 1414090,
+    "name": "Terraform"
+   },
+   {
+    "id": 1787466,
+    "name": "NSD"
+   },
+   {
+    "id": 4920535,
+    "name": "API's"
+   },
+   {
+    "id": 6052630,
+    "name": "Python"
+   },
+   {
+    "id": 7525535,
+    "name": "SC or DV Cleared"
+   }
+  ],
+  "reference": "DB PY LDN AI",
+  "scrapedAt": "2026-10-23T16:33:47Z"
+ },
+ {
+  "id": 57486856,
+  "url": "https://www.reed.co.uk/jobs/python-software-engineer-sc-cleared/57486856",
+  "title": "Python Software Engineer - SC Cleared",
+  "company": "Searchability NS&D",
+  "companyUrl": "https://www.reed.co.uk/jobs/searchability-ns-d/p106970",
+  "location": "London",
+  "county": "London",
+  "salaryFrom": 40000,
+  "salaryTo": 50000,
+  "salaryPeriod": "per annum",
+  "salaryFromPerYearEst": 40000,
+  "salaryToPerYearEst": 50000,
+  "currency": "GBP",
+  "contractType": "Permanent",
+  "fullTime": true,
+  "partTime": false,
+  "workingOption": null,
+  "snippet": "Python Engineer / Data Engineer - SC Cleared New Permanent Opportunity for an SC Cleared Python Engineer / Data Engineer with a leading Public Sect...",
+  "postedAt": "2026-10-23T09:02:29.62",
+  "updatedAt": "2026-10-23T09:02:31.277",
+  "expiresAt": "2026-10-30T23:55:00",
+  "category": "Engineer",
+  "easyApply": true,
+  "externalApplyUrl": null,
+  "isPromoted": false,
+  "detailScraped": true,
+  "searchUrl": "https://www.reed.co.uk/jobs/python-developer-jobs-in-london?datecreatedoffset=LastWeek&salaryfrom=50000",
+  "description": "Python Engineer / Data Engineer - SC Cleared\nNew Permanent Opportunity for an SC Cleared Python Engineer / Data Engineer with a leading Public Sector Consultancy\nLocation: London - hybrid working modelSalary: Up to £50,000 DOEClearance: Active SC required to startType: PermanentExperience: Python, AWS/Azure/GCP, Git, CI/CD, SQL, ETL/Data Pipelines, IaCRole Opportunity\nI'm currently working with a leading public sector technology consultancy delivering digital, data and technology projects across government.\nThey're looking for a Python Engineer / Data Engineer to join their growing team in London. This is a hands-on engineering role that would suit a strong Python / Backend Engineer with an interest in data engineering and cloud technologies.\nYou'll work on modern data platforms and services, developing Python-based solutions while gaining exposure to data pipelines, cloud infrastructure, CI/CD and Infrastructure as Code.\nKey Responsibilities:\nDevelop and maintain robust Python-based applications, services and data solutions.Build and support data pipelines, ETL/ELT and data transformation processes.Work with cloud platforms including AWS, Azure or GCP.Apply software engineering practices including Git, testing and CI/CD.Support cloud infrastructure and automation using Terraform / IaC.Work with databases and SQL.Support data quality, cleansing and standardisation.Collaborate with engineers, data specialists and client stakeholders.Work within Agile, multidisciplinary engineering teams.Key Skills Required:\nPython - strong hands-on development experienceCloud - AWS, Azure or GCPGit - version controlCI/CD - understanding of modern software deliverySQL - basic commercial experienceData Engineering - ETL/ELT, data pipelines and transformationTesting - unit, integration and data quality testingIaC / Terraform - awareness or practical experienceSC Clearance - active clearance required to startDesirable:\nDockerAirflow / AWS GluePandasData Lakes / Data WarehousesPublic sector or consultancy experienceAgile delivery experienceExperience working alongside data science / ML teamsTo be Considered:\nPlease apply by clicking online or emailing me directly at",
+  "descriptionHtml": "<p><br></p><p><strong>Python Engineer / Data Engineer - SC Cleared</strong></p><p><strong>New Permanent Opportunity for an SC Cleared Python Engineer / Data Engineer with a leading Public Sector Consultancy</strong></p><ul><li><strong>Location</strong>: London - hybrid working model</li><li><strong>Salary</strong>: Up to £50,000 DOE</li><li><strong>Clearance</strong>: Active SC required to start</li><li><strong>Type</strong>: Permanent</li><li><strong>Experience</strong>: Python, AWS/Azure/GCP, Git, CI/CD, SQL, ETL/Data Pipelines, IaC</li></ul><p><strong>Role Opportunity</strong></p><p>I'm currently working with a leading public sector technology consultancy delivering digital, data and technology projects across government.</p><p>They're looking for a Python Engineer / Data Engineer to join their growing team in London. This is a hands-on engineering role that would suit a strong Python / Backend Engineer with an interest in data engineering and cloud technologies.</p><p>You'll work on modern data platforms and services, developing Python-based solutions while gaining exposure to data pipelines, cloud infrastructure, CI/CD and Infrastructure as Code.</p><p><strong>Key Responsibilities:</strong></p><ul><li>Develop and maintain robust Python-based applications, services and data solutions.</li><li>Build and support data pipelines, ETL/ELT and data transformation processes.</li><li>Work with cloud platforms including AWS, Azure or GCP.</li><li>Apply software engineering practices including Git, testing and CI/CD.</li><li>Support cloud infrastructure and automation using Terraform / IaC.</li><li>Work with databases and SQL.</li><li>Support data quality, cleansing and standardisation.</li><li>Collaborate with engineers, data specialists and client stakeholders.</li><li>Work within Agile, multidisciplinary engineering teams.</li></ul><p><strong>Key Skills Required:</strong></p><ul><li>Python - strong hands-on development experience</li><li>Cloud - AWS, Azure or GCP</li><li>Git - version control</li><li>CI/CD - understanding of modern software delivery</li><li>SQL - basic commercial experience</li><li>Data Engineering - ETL/ELT, data pipelines and transformation</li><li>Testing - unit, integration and data quality testing</li><li>IaC / Terraform - awareness or practical experience</li><li>SC Clearance - active clearance required to start</li></ul><p><strong>Desirable</strong>:</p><ul><li>Docker</li><li>Airflow / AWS Glue</li><li>Pandas</li><li>Data Lakes / Data Warehouses</li><li>Public sector or consultancy experience</li><li>Agile delivery experience</li><li>Experience working alongside data science / ML teams</li></ul><p><strong>To be Considered:</strong></p><p>Please apply by clicking online or emailing me directly at<strong></strong></p>",
+  "sector": "Software Engineer",
+  "parentSector": "IT & Telecoms",
+  "region": "South East England",
+  "country": "United Kingdom",
+  "postcode": null,
+  "isRemote": false,
+  "salaryDisplay": "£ 40,000 - £ 50,000 per annum",
+  "salaryNegotiable": false,
+  "employerType": "Agency",
+  "skills": [
+   {
+    "id": 8801,
+    "name": "SC Clearance"
+   },
+   {
+    "id": 59571,
+    "name": "AWS"
+   },
+   {
+    "id": 78451,
+    "name": "Test Driven Development"
+   },
+   {
+    "id": 1414090,
+    "name": "Terraform"
+   },
+   {
+    "id": 1787466,
+    "name": "NSD"
+   },
+   {
+    "id": 6029590,
+    "name": "Data Pipelines"
+   },
+   {
+    "id": 6052630,
+    "name": "Python"
+   },
+   {
+    "id": 6063824,
+    "name": "Version Control"
+   }
+  ],
+  "reference": "DB PY DTA LDN",
+  "scrapedAt": "2026-10-23T16:33:50Z"
+ },
+ {
+  "id": 57475345,
+  "url": "https://www.reed.co.uk/jobs/technical-lead-python-engineer/57475345",
+  "title": "Technical Lead Python Engineer",
+  "company": "Spectrum IT Recruitment",
+  "companyUrl": "https://www.reed.co.uk/jobs/spectrum-it/p8868",
+  "location": "London",
+  "county": "London",
+  "salaryFrom": 90000,
+  "salaryTo": 100000,
+  "salaryPeriod": "per annum",
+  "salaryFromPerYearEst": 90000,
+  "salaryToPerYearEst": 100000,
+  "currency": "GBP",
+  "contractType": "Permanent",
+  "fullTime": true,
+  "partTime": false,
+  "workingOption": "hybrid",
+  "snippet": "Python Software Engineer | Technical Lead | Principal Engineer Python | Terraform | IaC | Cloud Automation London | Hybrid (2 days onsite. (London...",
+  "postedAt": "2026-10-20T09:09:50.57",
+  "updatedAt": "2026-10-20T09:09:52.11",
+  "expiresAt": "2026-11-03T23:55:00",
+  "category": "Manager",
+  "easyApply": true,
+  "externalApplyUrl": null,
+  "isPromoted": true,
+  "detailScraped": true,
+  "searchUrl": "https://www.reed.co.uk/jobs/python-developer-jobs-in-london?datecreatedoffset=LastWeek&salaryfrom=50000",
+  "description": "Python Software Engineer | Technical Lead | Principal Engineer\nPython | Terraform | IaC | Cloud AutomationLondon | Hybrid (2 days onsite. (London or Southampton)£100k + 8-10% bonus, private medicalAre you a Senior or Tech Lead Software Engineer who loves solving infrastructure challenges through code?\nWe're recruiting for an experienced Python Software Engineer to join a significant government technology project, helping to build secure enterprise customer platforms used by critical organisations. This is an opportunity to work on complex cloud infrastructure, automation, and platform engineering challenges where your work will have a direct impact on the success of a high-profile programme.\nUnlike many infrastructure roles, this is a genuinely software engineering-focused position. You'll spend your time building automation frameworks, developing internal tooling, creating Infrastructure as Code solutions, and eliminating manual processes through clean, scalable, production-quality code.\nWhat You'll Be Doing\nBuilding automation frameworks and tooling using PythonDeveloping Infrastructure as Code solutions with TerraformCreating reusable templates and code generation platforms using Jinja2Automating Windows environments through PowerShellManaging and improving configuration management with PuppetBuilding CI/CD integrations for infrastructure deliveryWorking closely with cloud, platform and engineering teams to improve automation and operational efficiencyDriving infrastructure standardisation, reliability and scalability across complex environmentsWhat We're Looking For\nStrong commercial Python development experienceExperience building automation tools, frameworks or platformsTerraform and Infrastructure as Code experienceExperience with AWS cloud servicesPuppet configuration management experienceCI/CD and DevOps automation experiencePassion for engineering best practices, testing and code qualityExperience working in cloud and hybrid infrastructure environmentsInterested? Hit apply to upload your CV. Want more info first? Contact Steve at Spectrum IT Recruitment. \nSpectrum IT Recruitment (South) Limited is acting as an Employment Agency in relation to this vacancy.",
+  "descriptionHtml": "<p><strong>Python Software Engineer | Technical Lead | Principal Engineer</strong></p><ul><li><strong>Python | Terraform | IaC | Cloud Automation</strong></li><li><strong>London | Hybrid (2 days onsite. (London or Southampton)</strong></li><li><strong>£100k + 8-10% bonus, private medical</strong></li></ul><p>Are you a Senior or Tech Lead Software Engineer who loves solving infrastructure challenges through code?</p><p>We're recruiting for an experienced Python Software Engineer to join a significant government technology project, helping to build secure enterprise customer platforms used by critical organisations. This is an opportunity to work on complex cloud infrastructure, automation, and platform engineering challenges where your work will have a direct impact on the success of a high-profile programme.</p><p>Unlike many infrastructure roles, this is a genuinely software engineering-focused position. You'll spend your time building automation frameworks, developing internal tooling, creating Infrastructure as Code solutions, and eliminating manual processes through clean, scalable, production-quality code.</p><p><strong>What You'll Be Doing</strong></p><ul><li>Building automation frameworks and tooling using Python</li><li>Developing Infrastructure as Code solutions with Terraform</li><li>Creating reusable templates and code generation platforms using Jinja2</li><li>Automating Windows environments through PowerShell</li><li>Managing and improving configuration management with Puppet</li><li>Building CI/CD integrations for infrastructure delivery</li><li>Working closely with cloud, platform and engineering teams to improve automation and operational efficiency</li><li>Driving infrastructure standardisation, reliability and scalability across complex environments</li></ul><p><strong>What We're Looking For</strong></p><ul><li>Strong commercial Python development experience</li><li>Experience building automation tools, frameworks or platforms</li><li>Terraform and Infrastructure as Code experience</li><li>Experience with AWS cloud services</li><li>Puppet configuration management experience</li><li>CI/CD and DevOps automation experience</li><li>Passion for engineering best practices, testing and code quality</li><li>Experience working in cloud and hybrid infrastructure environments</li></ul><p><strong>Interested? Hit apply to upload your CV. Want more info first? Contact Steve at Spectrum IT Recruitment. </strong></p><p>Spectrum IT Recruitment (South) Limited is acting as an Employment Agency in relation to this vacancy.</p>",
+  "sector": "Other IT & Telecoms",
+  "parentSector": "IT & Telecoms",
+  "region": "South East England",
+  "country": "United Kingdom",
+  "postcode": null,
+  "isRemote": false,
+  "salaryDisplay": "£ 90,000 - £ 100,000 per annum",
+  "salaryNegotiable": false,
+  "employerType": "Agency",
+  "skills": [
+   {
+    "id": 2584,
+    "name": "Developer"
+   },
+   {
+    "id": 9242,
+    "name": "Software"
+   },
+   {
+    "id": 28118,
+    "name": "Engineer"
+   },
+   {
+    "id": 33015,
+    "name": "Cloud"
+   },
+   {
+    "id": 59571,
+    "name": "AWS"
+   },
+   {
+    "id": 93392,
+    "name": "PowerShell"
+   },
+   {
+    "id": 1414090,
+    "name": "Terraform"
+   },
+   {
+    "id": 1818919,
+    "name": "IaC"
+   },
+   {
+    "id": 6052630,
+    "name": "Python"
+   }
+  ],
+  "reference": "BBBH19086",
+  "scrapedAt": "2026-10-23T16:33:52Z"
+ },
+ {
+  "id": 57483977,
+  "url": "https://www.reed.co.uk/jobs/senior-full-stack-engineer-python-react-azure-london/57483977",
+  "title": "Senior Full-Stack Engineer - Python / React / Azure - London",
+  "company": "Bond Williams",
+  "companyUrl": "https://www.reed.co.uk/jobs/bond-williams/p4349",
+  "location": "London",
+  "county": "London",
+  "salaryFrom": 70000,
+  "salaryTo": 90000,
+  "salaryPeriod": "per annum",
+  "salaryFromPerYearEst": 70000,
+  "salaryToPerYearEst": 90000,
+  "currency": "GBP",
+  "contractType": "Permanent",
+  "fullTime": true,
+  "partTime": false,
+  "workingOption": "onSite",
+  "snippet": "We are recruiting Full-Stack Software Engineers for a game changing biotech in West London to build a cloud based data analysis platform that will...",
+  "postedAt": "2026-10-22T11:24:15.043",
+  "updatedAt": "2026-10-22T11:24:16.16",
+  "expiresAt": "2026-12-03T23:55:00",
+  "category": "Engineer",
+  "easyApply": true,
+  "externalApplyUrl": null,
+  "isPromoted": true,
+  "detailScraped": true,
+  "searchUrl": "https://www.reed.co.uk/jobs/python-developer-jobs-in-london?datecreatedoffset=LastWeek&salaryfrom=50000",
+  "description": "We are recruiting Full-Stack Software Engineers for a game changing biotech in West London to build a cloud based data analysis platform that will play a key part in the future of scientific discovery.\n\nWorking in a small, talented and motivated team using state of the art tools including powerful AI to augment the development life cycle and speed up productivity, the key focus of the Full-Stack Software Engineer will be:\n\nDesigning and deliver services to power and maintain data analysis workflowsSupporting front-end development (React) to design APIs and contribute to UI implementationAutomating system deployment to the cloudReviewing software design and test cases\n\nThe ideal Full-Stack Software Engineer will bring:\n\nThe confidence that comes with experience; to own decisions and outcomesDiligence and dedication to push work over the finish line in a fast-moving environmentSignificant experience of building best-in-class Python components in a commercial software environmentExperience deploying cloud systems with infrastructure as codeExposure to react and typescript UI developmentKnowledge of modern testing frameworks and end-to-end testing (pytest, Cucumber, PlaywrightA background in software development for a science or biotech may also be desirable\n\nA great salary, bonus, share options and exciting growth opportunities are all on offer with this role, which represents a genuine golden opportunity to be one of the first members of a team building a platform that will break the boundaries of scientific discovery as it is currently known.\nBond Williams Professional Recruitment are an equal opportunity employer and operate as an Employment Business and Recruitment Agency",
+  "descriptionHtml": "<p>We are recruiting <strong>Full-Stack Software Engineers</strong> for a game changing biotech in West London to build a cloud based data analysis platform that will play a key part in the future of scientific discovery.</p><p><br></p><p>Working in a small, talented and motivated team using state of the art tools including powerful AI to augment the development life cycle and speed up productivity, the key focus of the <strong>Full-Stack Software Engineer</strong> will be<strong>:</strong><br></p><ul><li>Designing and deliver services to power and maintain data analysis workflows</li><li>Supporting front-end development (React) to design APIs and contribute to UI implementation</li><li>Automating system deployment to the cloud</li><li>Reviewing software design and test cases</li></ul><p><br></p><p>The ideal <strong>Full-Stack Software Engineer</strong> will bring:</p><p><br></p><ul><li>The confidence that comes with experience; to own decisions and outcomes</li><li>Diligence and dedication to push work over the finish line in a fast-moving environment</li></ul><ul><li>Significant experience of building best-in-class Python components in a commercial software environment</li></ul><ul><li>Experience deploying cloud systems with infrastructure as code</li><li>Exposure to react and typescript UI development</li><li>Knowledge of modern testing frameworks and end-to-end testing (pytest, Cucumber, Playwright</li><li>A background in software development for a science or biotech may also be desirable</li></ul><p><br></p><p>A great salary, bonus, share options and exciting growth opportunities are all on offer with this role, which represents a genuine golden opportunity to be one of the first members of a team building a platform that will break the boundaries of scientific discovery as it is currently known.</p><p>Bond Williams Professional Recruitment are an equal opportunity employer and operate as an Employment Business and Recruitment Agency</p>",
+  "sector": "Software Engineer",
+  "parentSector": "IT & Telecoms",
+  "region": "South East England",
+  "country": "United Kingdom",
+  "postcode": null,
+  "isRemote": false,
+  "salaryDisplay": "Competitive salary",
+  "salaryNegotiable": false,
+  "employerType": "Agency",
+  "skills": null,
+  "reference": "BBBH18651",
+  "scrapedAt": "2026-10-23T16:33:53Z"
+ },
+ {
+  "id": 57486862,
+  "url": "https://www.reed.co.uk/jobs/senior-python-engineer-sc-cleared/57486862",
+  "title": "Senior Python Engineer - SC Cleared",
+  "company": "Searchability NS&D",
+  "companyUrl": "https://www.reed.co.uk/jobs/searchability-ns-d/p106970",
+  "location": "London",
+  "county": "London",
+  "salaryFrom": 60000,
+  "salaryTo": 75000,
+  "salaryPeriod": "per annum",
+  "salaryFromPerYearEst": 60000,
+  "salaryToPerYearEst": 75000,
+  "currency": "GBP",
+  "contractType": "Permanent",
+  "fullTime": true,
+  "partTime": false,
+  "workingOption": null,
+  "snippet": "SENIOR PYTHON / DATA ENGINEER - SC CLEARED NEW PERMANENT OPPORTUNITY AVAILABLE FOR AN SC CLEARED PYTHON ENGINEER WITH DATA ENGINEERING EXPERIENCE S...",
+  "postedAt": "2026-10-23T09:02:41.273",
+  "updatedAt": "2026-10-23T09:02:42.243",
+  "expiresAt": "2026-10-30T23:55:00",
+  "category": "Engineer",
+  "easyApply": true,
+  "externalApplyUrl": null,
+  "isPromoted": false,
+  "detailScraped": true,
+  "searchUrl": "https://www.reed.co.uk/jobs/python-developer-jobs-in-london?datecreatedoffset=LastWeek&salaryfrom=50000",
+  "description": "SENIOR PYTHON / DATA ENGINEER - SC CLEARED\nNEW PERMANENT OPPORTUNITY AVAILABLE FOR AN SC CLEARED PYTHON ENGINEER WITH DATA ENGINEERING EXPERIENCE \nSalary: Up to £75,000 Location: London Working Pattern: HybridClearance: SC Clearance required to startType: PermanentI'm currently working with a leading technology consultancy delivering a range of complex digital and data projects across the public sector.\nThey're looking for a Senior Python / Data Engineer to join their growing engineering team in London.\nThis role could be a great fit for someone from a strong backend Python / software engineering background who has experience working with data, cloud platforms or data-intensive applications. You don't need to have worked across every area of data engineering - strong software engineering fundamentals are key.\nTHE ROLE\nYou'll work as a hands-on senior engineer, designing and building modern data platforms, services and applications for public sector clients.\nYou'll be involved across the engineering lifecycle, working with Python, cloud technologies, data pipelines and modern software engineering practices. You'll also have the opportunity to work closely with clients and support the development of other engineers.\nKey responsibilities\nDeveloping high-quality, production-ready Python applications and servicesBuilding and maintaining data pipelines, including ETL/ELT and batch/streaming workloadsWorking with cloud platforms including AWS, Azure or GCPDesigning and integrating APIs, databases and data servicesApplying software engineering principles including SOLID, DRY and TDDUsing Git and CI/CD pipelines to maintain code quality and support deploymentsWorking with data transformation, cleansing and standardisationSupporting modern data architectures including data lakes and data warehousesUsing Terraform / Infrastructure as Code to build and manage environmentsImplementing logging, monitoring and alerting across production systemsWorking with technologies such as Pandas, Pydantic, Airflow, AWS Glue, Docker, JSON and ParquetWorking alongside data scientists, engineers and multidisciplinary delivery teamsSupporting and mentoring other engineers and sharing technical knowledgeWHAT WE'RE LOOKING FOR\nWe're particularly interested in engineers with:\nStrong commercial experience with PythonA solid understanding of backend / software engineering principlesExperience working with AWS, Azure or GCPExperience with Git, CI/CD and automated testingKnowledge of databases and data processingExperience building or working with APIs, services or data pipelinesUnderstanding of ETL/ELT and data engineering principlesExperience with Terraform or another Infrastructure as Code toolExperience working in modern Agile engineering environmentsStrong communication skills and the ability to work with technical and non-technical stakeholdersActive SC ClearanceDESIRABLE\nAirflow or AWS GluePandas / PydanticDockerData lakes / data warehousesBatch and streaming systemsData quality and schema managementExperience productionising machine learning or data science solutionsConsultancy experiencePublic sector experiencePair programming / mob programmingExperience working within multidisciplinary technology teamsYou don't need to tick every box. If you're a strong Senior Python / Backend Engineer with some experience around data, cloud or data platforms, I'd still be keen to speak with you.\nTo apply, send your CV to",
+  "descriptionHtml": "<p><strong>SENIOR PYTHON / DATA ENGINEER - SC CLEARED</strong></p><p><strong>NEW PERMANENT OPPORTUNITY AVAILABLE FOR AN SC CLEARED PYTHON ENGINEER WITH DATA ENGINEERING EXPERIENCE </strong></p><ul><li><strong>Salary:</strong> Up to £75,000 </li><li><strong>Location:</strong> London </li><li><strong>Working Pattern:</strong> Hybrid</li><li><strong>Clearance:</strong> SC Clearance required to start</li><li><strong>Type:</strong> Permanent</li></ul><p>I'm currently working with a leading technology consultancy delivering a range of complex digital and data projects across the public sector.</p><p>They're looking for a <strong>Senior Python / Data Engineer</strong> to join their growing engineering team in London.</p><p>This role could be a great fit for someone from a <strong>strong backend Python / software engineering background</strong> who has experience working with data, cloud platforms or data-intensive applications. You don't need to have worked across every area of data engineering - strong software engineering fundamentals are key.</p><p><strong>THE ROLE</strong></p><p>You'll work as a hands-on senior engineer, designing and building modern data platforms, services and applications for public sector clients.</p><p>You'll be involved across the engineering lifecycle, working with Python, cloud technologies, data pipelines and modern software engineering practices. You'll also have the opportunity to work closely with clients and support the development of other engineers.</p><p><strong>Key responsibilities</strong></p><ul><li>Developing high-quality, production-ready <strong>Python</strong> applications and services</li><li>Building and maintaining data pipelines, including <strong>ETL/ELT</strong> and batch/streaming workloads</li><li>Working with cloud platforms including <strong>AWS, Azure or GCP</strong></li><li>Designing and integrating APIs, databases and data services</li><li>Applying software engineering principles including <strong>SOLID, DRY and TDD</strong></li><li>Using <strong>Git</strong> and CI/CD pipelines to maintain code quality and support deployments</li><li>Working with data transformation, cleansing and standardisation</li><li>Supporting modern data architectures including <strong>data lakes and data warehouses</strong></li><li>Using <strong>Terraform / Infrastructure as Code</strong> to build and manage environments</li><li>Implementing logging, monitoring and alerting across production systems</li><li>Working with technologies such as <strong>Pandas, Pydantic, Airflow, AWS Glue, Docker, JSON and Parquet</strong></li><li>Working alongside data scientists, engineers and multidisciplinary delivery teams</li><li>Supporting and mentoring other engineers and sharing technical knowledge</li></ul><p><strong>WHAT WE'RE LOOKING FOR</strong></p><p>We're particularly interested in engineers with:</p><ul><li>Strong commercial experience with <strong>Python</strong></li><li>A solid understanding of backend / software engineering principles</li><li>Experience working with <strong>AWS, Azure or GCP</strong></li><li>Experience with <strong>Git, CI/CD and automated testing</strong></li><li>Knowledge of databases and data processing</li><li>Experience building or working with APIs, services or data pipelines</li><li>Understanding of <strong>ETL/ELT</strong> and data engineering principles</li><li>Experience with <strong>Terraform</strong> or another Infrastructure as Code tool</li><li>Experience working in modern Agile engineering environments</li><li>Strong communication skills and the ability to work with technical and non-technical stakeholders</li><li><strong>Active SC Clearance</strong></li></ul><p><strong>DESIRABLE</strong></p><ul><li>Airflow or AWS Glue</li><li>Pandas / Pydantic</li><li>Docker</li><li>Data lakes / data warehouses</li><li>Batch and streaming systems</li><li>Data quality and schema management</li><li>Experience productionising machine learning or data science solutions</li><li>Consultancy experience</li><li>Public sector experience</li><li>Pair programming / mob programming</li><li>Experience working within multidisciplinary technology teams</li></ul><p><strong>You don't need to tick every box.</strong> If you're a strong <strong>Senior Python / Backend Engineer</strong> with some experience around data, cloud or data platforms, I'd still be keen to speak with you.</p><p><strong>To apply, send your CV to </strong></p>",
+  "sector": "Software Engineer",
+  "parentSector": "IT & Telecoms",
+  "region": "South East England",
+  "country": "United Kingdom",
+  "postcode": null,
+  "isRemote": false,
+  "salaryDisplay": "£ 60,000 - £ 75,000 per annum",
+  "salaryNegotiable": false,
+  "employerType": "Agency",
+  "skills": [
+   {
+    "id": 8801,
+    "name": "SC Clearance"
+   },
+   {
+    "id": 59571,
+    "name": "AWS"
+   },
+   {
+    "id": 1414090,
+    "name": "Terraform"
+   },
+   {
+    "id": 1787466,
+    "name": "NSD"
+   },
+   {
+    "id": 6029590,
+    "name": "Data Pipelines"
+   },
+   {
+    "id": 6052630,
+    "name": "Python"
+   },
+   {
+    "id": 6063824,
+    "name": "Version Control"
+   }
+  ],
+  "reference": "DB PY DATA LDN",
+  "scrapedAt": "2026-10-23T16:33:55Z"
+ }
+]

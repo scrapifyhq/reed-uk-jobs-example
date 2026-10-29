@@ -1,0 +1,12 @@
+{
+  "name": "reed-uk-jobs-example",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node example.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  }
+}
